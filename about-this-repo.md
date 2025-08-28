@@ -7,6 +7,7 @@ https://hasangural.com/github-codespaces-terraform
 On Mac use CMD+SHIFT+9 and then search for Containers: Rebuild Container
 
 This is the contents of the *devcontainer.json* file that contains terraform and conftest:
+
 `{
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
